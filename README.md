@@ -9,7 +9,7 @@ Script for the NikS promotor T-stretch length analysis as used by Eisenbart et a
 
 ## Input required:
 - Your Email address to use for Entrez access
-- SRA sequences from SRP162088 "Helicobacter pylori genome evolution within the human stomach", converted to FASTA. File names needs to follow the scheme "SRR-id.fas" to allow for Entrez information lookup
+- SRA sequences from SRP162088 "Helicobacter pylori genome evolution within the human stomach", converted to FASTA. File names needs to follow the scheme "SRRid.fas" to allow for Entrez information lookup
 - Start sequence of NikS gene for identification of upstream promotor region
 
 
