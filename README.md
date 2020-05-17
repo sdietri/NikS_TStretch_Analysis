@@ -12,6 +12,8 @@ Input required:
 - SRA sequences from SRP162088 "Helicobacter pylori genome evolution within the human stomach", converted to FASTA. File names needs to follow the scheme "SRR-id.fas" to allow for Entrez information lookup
 - Start sequence of NikS gene for identification of upstream promotor region
 
+
+
 Command:
 
 python3 NiksSearch.py "email" "Folder to SRR fastas" "Start sequence NikS fasta"
