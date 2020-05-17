@@ -16,4 +16,4 @@ Script for the NikS promotor T-stretch length analysis as used by Eisenbart et a
 
 ## Command:
 
-python3 NiksSearch.py "email" "Folder to SRR fastas" "Start sequence NikS fasta"
+python3 Niks-TStretch-Analysis.py "email" "Folder to SRR fastas" "Start sequence NikS fasta"
