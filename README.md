@@ -13,4 +13,5 @@ Input required:
 - Start sequence of NikS gene for identification of upstream promotor region
 
 Command:
+
 python3 NiksSearch.py "email" "Folder to SRR fastas" "Start sequence NikS fasta"
